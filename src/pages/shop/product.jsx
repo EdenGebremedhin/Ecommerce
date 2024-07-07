@@ -9,7 +9,7 @@ export const Product = (props) => {
             <p>
                 <b>{productName}</b>
             </p>
-            <p>{price}</p>
+            <p>${price}</p>
         </div>
     </div>
     );
